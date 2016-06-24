@@ -53,4 +53,5 @@ public class Animation {
 	public void cyclical(boolean yesOrNo){
 		this.cyclical = yesOrNo;
 	}
+
 }
