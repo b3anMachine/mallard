@@ -32,7 +32,7 @@ public class Game implements KeyListener, MouseMotionListener, MouseListener{
 	private InputStream musicLoc;
 	private AudioStream audioStream;
 	private boolean musicPlaying;
-	
+
 	//game states
 	private boolean running;
 	private boolean gameStarted;
