@@ -10,7 +10,8 @@ import sun.audio.*;
 //import static java.lang.Math.*;
 
 public class Game implements KeyListener, MouseMotionListener, MouseListener{
-	
+
+
 	//Our window and panel
 	private MyPanel panel = new MyPanel();
 	private JFrame frame = new JFrame("Mallard!");
