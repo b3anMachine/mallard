@@ -13,7 +13,4 @@ sudo spctl --master-enable
 ```
 
 # Screenshots
-![alt text](https://imgur.com/JXUNgtX.png)
-![alt text](https://imgur.com/5fguELA.png)
-![alt text](https://imgur.com/4oIWinL.png)
-![alt text](https://imgur.com/IEvFiai.png)
+![alt text](https://imgur.com/6FW5Wby)
